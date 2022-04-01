@@ -1,5 +1,5 @@
-banana
-potato
-meat
-apple
-orange
+banana	x3	
+potato	x2
+meat	x5
+apple	x6
+orange	x2
