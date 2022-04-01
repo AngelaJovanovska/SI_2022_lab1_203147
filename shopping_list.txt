@@ -2,4 +2,5 @@ banana	x3
 potato	x8
 meat	x5
 apple	x6
-orange	x5
+milk	x5
+eggs
